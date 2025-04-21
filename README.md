@@ -55,9 +55,12 @@ python maquina_maionese.py
 
 📌 Este projeto foi desenvolvido como parte da disciplina Algoritmos e Programação II da UNIFEI, sob orientação do professor Hokama.
 
-🐍 Requisitos
+🐍 Requisitos:
+
 Python 3.6+
+
 Arquivo com as receitas e ingredientes
+
 Um terminal para rodar o script e interagir via comandos
 
 
